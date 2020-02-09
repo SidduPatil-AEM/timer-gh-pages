@@ -34,11 +34,6 @@ function Decrement()
     
 }
 
-getHours()
-{
-    hours = 
-}
-
 function getMinutes(){
     mins = Math.floor(secs / 60);
     return mins;
